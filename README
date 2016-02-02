@@ -1,0 +1,5 @@
+Code for making fake PALM-like videos (including reconstruction) for
+illustrative purposes.
+
+The code is designed to make the data look nice and visually realistic.
+It is not to be physically realistic, so don't use it as simulated data!

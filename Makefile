@@ -1,4 +1,4 @@
-CXX=g++ 
+CXX=g++ -std=c++14
 CXXFLAGS=-O3
 
 vid:vid.o
